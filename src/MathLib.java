@@ -1,6 +1,6 @@
 public class MathLib {
     public static void main(){
-        System.out.print("MathLib gestartet");
+        System.out.println("MathLib gestartet");
     }
 
     public static int plus(int a, int b){
