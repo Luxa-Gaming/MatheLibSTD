@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d02588e8-a7f8-4a8a-b50e-41e6a261d524" name="Changes" comment="- Zeilenumbruch hinzugefügt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="d02588e8-a7f8-4a8a-b50e-41e6a261d524" name="Changes" comment="- Do While">
+      <change beforePath="$PROJECT_DIR$/src/MathLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathLib.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670398326607</updated>
       <workItem from="1670398327695" duration="9168000" />
-      <workItem from="1670588200192" duration="1341000" />
+      <workItem from="1670588200192" duration="1581000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1670403950101</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670417184276</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- Do While">
+      <created>1670589588080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670589588080</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +102,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="- Zeilenumbruch hinzugefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Zeilenumbruch hinzugefügt" />
+    <MESSAGE value="- Do While" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Do While" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
