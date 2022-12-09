@@ -36,7 +36,7 @@ public class MathLib {
 
     public static int fakultaet(int n) {
         if (n <= 1) {
-            return 1;
+            return n;
         } else {
             return n * fakultaet(n - 1);
         }
